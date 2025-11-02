@@ -1,4 +1,4 @@
-# 👋 Bonjour ! Je suis Nedia Ben Salem
+# 👋 Bonjour ! Je suis Nadia Ben Salem
 
 ## 🎓 À propos de moi
 
