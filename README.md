@@ -33,7 +33,7 @@
 ## 📫 Me contacter
 
 - 📧 Email : bnedya@gmail.com
-- 💼 LinkedIn : [nedia-ben-salem](https://www.linkedin.com/in/nedia-ben-salem-ba949138b)
+- 💼 LinkedIn : [nedia-ben-salem](https://www.linkedin.com/in/nadia-ben-salem-ba949138b)
 
 ## 🎯 Actuellement
 
