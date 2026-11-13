@@ -8,7 +8,7 @@
 - 🚀 Je conçois des applications web de bout en bout, du front-end **Angular / React** à l'API **Spring Boot** sécurisée
 - ☁️ **Certifiée Microsoft Azure Fundamentals** (AZ-900)
 - 🤝 Première carrière en relation client, gestion d'équipe et enseignement : rigueur, communication et sens du service
-- 📍 Basée en **Île-de-France** · télétravail ou présentiel · disponible immédiatement
+- 📍 Basée en **France** · télétravail ou présentiel · disponible immédiatement
 
 ## 🏆 Projet phare : EduCenter
 
