@@ -4,7 +4,7 @@
 
 ## 🎓 À propos de moi
 
-- 💻 **Développeuse Full-Stack Junior**, diplômée en **Génie Logiciel & Systèmes d'Information** (Iteam University, 2026)
+- 💻 **Développeuse Full-Stack Junior**, diplômée en **Génie Logiciel & Systèmes d'Information** (iTeam University, 2026)
 - 🚀 Je conçois des applications web de bout en bout, du front-end **Angular / React** à l'API **Spring Boot** sécurisée
 - ☁️ **Certifiée Microsoft Azure Fundamentals** (AZ-900)
 - 🤝 Première carrière en relation client, gestion d'équipe et enseignement : rigueur, communication et sens du service
